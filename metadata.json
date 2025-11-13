@@ -1,0 +1,5 @@
+{
+  "name": "Vision OCR: Large Image Text Extractor",
+  "description": "An advanced OCR tool designed to extract small text from large, high-resolution images. Features an interactive zoom and pan viewer to precisely select the text area you want to digitize.",
+  "requestFramePermissions": []
+}
